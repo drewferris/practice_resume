@@ -17,4 +17,4 @@
 * LinkedIn: [linkedin.com/in/drew-ferris ](https://linkedin.com/in/drew-ferris)
 * GitHub: [github.com/drewferris](https://github.com/drewferris)
 
-![Me screenshot](./README_pics/drewpro.jpg)
+![Me screenshot](./README_pics/drewpro.jpg =100x20)
